@@ -10,7 +10,7 @@ const SingleListItem = ({ index, isSelected, onClickHandler, text }) => {
         borderRadius: '5px',
         marginBottom: '10px'
 }}
-      onClick={onClickHandler}
+      onClick={() => onClickHandler(index)}
     > 
       {text}
     </li>
