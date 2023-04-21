@@ -39,7 +39,7 @@ const SingleListItem = ({ index, isSelected, onClickHandler, text }) => {
 
 ```
 ## data.js
-```
+```javascript
 export const items = [
   {
     text: 'Nikhil Kumar Kataria',
@@ -113,7 +113,7 @@ export default List;
 ```
 ## SingleListItem.jsx
 
-```
+```javascript
 import React from 'react';
 import PropTypes from 'prop-types';
 
