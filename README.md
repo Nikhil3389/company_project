@@ -145,3 +145,8 @@ SingleListItem.propTypes = {
 export default SingleListItem;
 
 ```
+
+## Here is the review of page 
+
+![image](https://user-images.githubusercontent.com/71307854/233766029-db36357f-07fd-48c4-bbfd-10f320545438.png)
+
