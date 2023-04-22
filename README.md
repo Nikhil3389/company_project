@@ -53,7 +53,7 @@ export const items = [
 ];
 ```
 ## List.jsx
-```
+```javascript
 
 
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
